@@ -1,0 +1,2 @@
+# DNS-List
+domain list
